@@ -1,4 +1,4 @@
-const apiUrl = 'https://app-168078e1-7ac3-4d44-95ca-497e58152dc1.cleverapps.io/api';
+const apiUrl = 'https://app-a972213e-3a60-435f-8f44-cab72200fc6d.cleverapps.io/api';
 
 function usuarioLogado() {
     return localStorage.getItem('usuario_id');
